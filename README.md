@@ -10,4 +10,14 @@
 *  **Key Concept:** Understanding the triage pipeline(LOGS➡ SIEM➡Alert➡Analyst Triage➡Remediation).
 *   **Takeway:** communication and rapid documentation are just as vitalas technical analyst during a live breach.
 
-  ###
+  ### 3, Humans Vs. Atack Vectors
+  * **Core Task:** Analysing real world phishing and social engineering methods.
+  *  **Key Concept:**Atack vectors target human behaiviour (urgency,fear,curiosity) to bypass perimeter technical controls.
+  *   **Defense strategy:** Email header analysis,scanning atchements hashes, and user awareness training.
+<img width="826" height="552" alt="image" src="https://github.com/user-attachments/assets/7f45c3c6-8598-45bb-aee8-37447f796fff" />
+
+### 4. System as Atack vectors 
+* **Core Task:** Inspecting how vulnerabilities inside an operatin systemare targeted.
+*  **Key Cocenpt:** Weak system configurations, unpatched software, and exposed open portsgive atackers a foothold.
+*   **Defense strategy:** Patch management, endpoint detection, and implementig the principle of last privilege.
+  
