@@ -17,7 +17,7 @@
 <img width="826" height="552" alt="image" src="https://github.com/user-attachments/assets/7f45c3c6-8598-45bb-aee8-37447f796fff" />
 
 ### 4. System as Atack vectors 
-* **Core Task:** Inspecting how vulnerabilities inside an operatin systemare targeted.
-*  **Key Cocenpt:** Weak system configurations, unpatched software, and exposed open portsgive atackers a foothold.
+* **Core Task:** Inspecting how vulnerabilities inside an operatin system are targeted.
+*  **Key Cocenpt:** Weak system configurations, unpatched software, and exposed open ports give atackers a foothold.
 *   **Defense strategy:** Patch management, endpoint detection, and implementig the principle of last privilege.
   
