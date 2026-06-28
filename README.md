@@ -20,6 +20,7 @@
 * **Core Task:** Inspecting how vulnerabilities inside an operatin system are targeted.
 *  **Key Cocenpt:** Weak system configurations, unpatched software, and exposed open ports give atackers a foothold.
 *   **Defense strategy:** Patch management, endpoint detection, and implementig the principle of last privilege.
+*   
     ---
 ## 📌 Module 2 Soc team internals
 
