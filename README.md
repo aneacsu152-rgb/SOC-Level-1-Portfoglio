@@ -20,4 +20,14 @@
 * **Core Task:** Inspecting how vulnerabilities inside an operatin system are targeted.
 *  **Key Cocenpt:** Weak system configurations, unpatched software, and exposed open ports give atackers a foothold.
 *   **Defense strategy:** Patch management, endpoint detection, and implementig the principle of last privilege.
+markdown
+---
+## 📌 Module 2 Soc team internals
+
+### 1. SOC L1 Alert triage 
+* **Core task:** Learning how alerts are generated, how to read metadata, and to classify severity
+* **key Concepts :** True positive vs. False poitive classification.Figuring out if an alert is actual malicious activity or a benign network activity.
+*  **Metric Focused:** Reducing **MTTA (Mean time to acknowledge)** by spotting incoming alerts quickly.
+*  <img width="1876" height="873" alt="image" src="https://github.com/user-attachments/assets/a2368f94-04e5-45ed-aae6-0a0bcbd17568" />
+
   
