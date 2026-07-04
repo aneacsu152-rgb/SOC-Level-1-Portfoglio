@@ -50,6 +50,9 @@
 * **Core Task:** Running a practical simulation managing a security queue under pressure.
 * **Key Action:** Triage realistic phishing emails, check email header routing, scan attachment hashes, and isolate targeted user endpoints.
   <img width="1024" height="880" alt="image" src="https://github.com/user-attachments/assets/74e3fcdf-6b58-440a-a0f5-4a106fff95e2" />
+  <img width="1024" height="880" alt="image" src="https://github.com/user-attachments/assets/8511d978-683a-47f0-a1b4-d446cd8361e8" />
+
+  
 
     
 
