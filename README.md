@@ -30,4 +30,21 @@
 *  **Metric Focused:** Reducing **MTTA (Mean time to acknowledge)** by spotting incoming alerts quickly.
 *  <img width="1876" height="873" alt="image" src="https://github.com/user-attachments/assets/a2368f94-04e5-45ed-aae6-0a0bcbd17568" />
 
+### 2. SOC L1 Alert Reporting
+* **Core Task:** Documenting findings and writing professional incident escalation forms.
+* **Key Concept:** The 5 W's (Who, What, When, Where, Why). An analyst must write reports clearly enough for both technicians and managers to understand.
+* **Takeaway:** Proper documentation is critical because this data is what a Tier 2 analyst uses during active incident response.
+
+### 3. SOC Workbooks and Lookups
+* **Core Task:** Utilizing lookup tables and corporate playbooks to automatically enrich raw security alerts.
+* **Key Concept:** Identity and Asset Inventory. You cannot judge if a login is suspicious without looking up *who* owns the account and *what* the machine's normal function is.
+
+### 4. SOC Metrics and Objectives
+* **Core Task:** Exploring how a SOC measures its daily operational effectiveness and health.
+* **Key Numbers to Remember:**
+  * **MTTD (Mean Time to Detect):** Average time from the start of an attack to the tool detection (Target: < 5 mins).
+  * **MTTA (Mean Time to Acknowledge):** Time it takes an analyst to pick up the ticket (Target: < 10 mins).
+  * **False Positive Rate:** Needs to stay balanced to avoid analyst "alert fatigue".
+
+
   
