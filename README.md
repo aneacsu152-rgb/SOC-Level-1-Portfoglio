@@ -45,6 +45,13 @@
   * **MTTD (Mean Time to Detect):** Average time from the start of an attack to the tool detection (Target: < 5 mins).
   * **MTTA (Mean Time to Acknowledge):** Time it takes an analyst to pick up the ticket (Target: < 10 mins).
   * **False Positive Rate:** Needs to stay balanced to avoid analyst "alert fatigue".
+    
+ ### 5. SOC Simulator: Introduction to Phishing
+* **Core Task:** Running a practical simulation managing a security queue under pressure.
+* **Key Action:** Triage realistic phishing emails, check email header routing, scan attachment hashes, and isolate targeted user endpoints.
+  <img width="1024" height="880" alt="image" src="https://github.com/user-attachments/assets/74e3fcdf-6b58-440a-a0f5-4a106fff95e2" />
+
+    
 
 
   
