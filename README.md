@@ -66,6 +66,11 @@
   
   <img width="1825" height="884" alt="image" src="https://github.com/user-attachments/assets/683c40ae-31a3-4874-9c9f-f91138386649" />
 
+  ### 2. Introduction to SIEM
+* **Core Task:** Analyzing how centralized log management aggregates data from across an entire global infrastructure.
+* **Key Concept:** Log normalization and correlation rules. It connects a weird firewall log with a weird Windows login log to spot a hacker.
+  
+
   
 
     
