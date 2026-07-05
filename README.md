@@ -52,7 +52,17 @@
   <img width="1024" height="880" alt="image" src="https://github.com/user-attachments/assets/74e3fcdf-6b58-440a-a0f5-4a106fff95e2" />
   
   <img width="1024" height="880" alt="image" src="https://github.com/user-attachments/assets/8511d978-683a-47f0-a1b4-d446cd8361e8" />
+
+  ---
+
+  ## 📌 Module 3: Core SOC Solutions
+
+  ### 1. Introduction to EDR
+* **Core Task:** Exploring Endpoint Detection and Response platforms.
+* **Key Concept:** Moving past traditional antivirus. EDR continuously monitors system behavior, processes, and memory to catch advanced, signature-less threats.
+* **Takeaway:** Allows an analyst to remotely isolate a compromised host from the network with one click.
   
+  <img width="1825" height="884" alt="image" src="https://github.com/user-attachments/assets/683c40ae-31a3-4874-9c9f-f91138386649" />
 
   
 
