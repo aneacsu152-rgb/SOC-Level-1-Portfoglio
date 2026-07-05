@@ -69,7 +69,12 @@
   ### 2. Introduction to SIEM
 * **Core Task:** Analyzing how centralized log management aggregates data from across an entire global infrastructure.
 * **Key Concept:** Log normalization and correlation rules. It connects a weird firewall log with a weird Windows login log to spot a hacker.
-  
+
+  ### 3. Splunk: The Basics
+* **Core Task:** Navigating the industry-leading SIEM platform using basic search syntax.
+* **Key Skills:** Using commands like `search`, `table`, and wildcards to filter millions of logs down to a single malicious event.
+  <img width="1908" height="894" alt="image" src="https://github.com/user-attachments/assets/95859e24-3bb0-4837-b389-34608f4bc916" />
+
 
   
 
