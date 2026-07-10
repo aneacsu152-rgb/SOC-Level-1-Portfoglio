@@ -76,6 +76,14 @@
   
   <img width="1908" height="894" alt="image" src="https://github.com/user-attachments/assets/95859e24-3bb0-4837-b389-34608f4bc916" />
 
+  ### 4. Elastic: The Basics
+* **Core Task:** Exploring the ELK stack (Elasticsearch, Logstash, Kibana) as an open-source SIEM alternative.
+* **Key Skills:** Navigating Kibana dashboards and using Discovery mode to filter indices and investigate endpoint security events.
+
+### 5. Introduction to SOAR
+* **Core Task:** Understanding how automation reduces the workload on Tier 1 analysts.
+* **Key Concept:** Playbooks. For example: If a phishing alert fires, the SOAR automatically checks the file hash on VirusTotal, deletes the email from all user inboxes, and blocks the sender IP.
+
 
   
 
