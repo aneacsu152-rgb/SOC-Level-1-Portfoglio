@@ -91,7 +91,7 @@
 ### 1. Pyramid of Pain
 * **Core Task:** Analyzing the relationship between security indicators and the operational cost to an attacker.
 * **Key Concept:** The six levels ranging from Easy to Tough (Hash Values ➔ IP Addresses ➔ Domain Names ➔ Host Artifacts ➔ Network Artifacts ➔ TTPs).
-* **Takeaway:** Forcing the adversary to change their TTPs (Tactics, Techniques
+* **Takeaway:** Forcing the adversary to change their TTPs (Tactics, Techniques, and Procedures) causes them maximum pain and completely disrupts their campaign.
 
 
   
