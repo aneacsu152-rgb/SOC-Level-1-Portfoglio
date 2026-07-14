@@ -84,6 +84,11 @@
 * **Core Task:** Understanding how automation reduces the workload on Tier 1 analysts.
 * **Key Concept:** Playbooks. For example: If a phishing alert fires, the SOAR automatically checks the file hash on VirusTotal, deletes the email from all user inboxes, and blocks the sender IP.
 
+  Markdown
+---
+
+## 📌 Module 4: Cyber Defense Frameworks
+
 
   
 
